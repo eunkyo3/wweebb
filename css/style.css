@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Play:wght@400;700&display=swap');
+
+body {
+    font-family: monoton;
+}
+
+.fa {
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+}
